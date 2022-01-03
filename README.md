@@ -2,7 +2,7 @@
 
 Welcome to our Study Group. 
 
-In the next 45 days we will be learning NextJS (pun intended). We also having other interesting modules coming up afterwards, I will list them in no particular order:
+In the next 45 days we will be learning NextJS (pun intended). We also have other interesting modules coming up afterwards, I will list them in no particular order:
 
 - Redux
 - React Testing
